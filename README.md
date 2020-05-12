@@ -59,19 +59,30 @@
 
 
 ##2. Recent Project history
-* 
 
+### 2.1 Summary
+    - 신규 개발 건 5건 수행
+    - 유지보수 건 3건 수행
+    - 설계 건 1건 수행
 
-### 2.1 요약
-#### ※ 개발 건
-* 부산항만공사 물류공통포털 [www.chainportal.co.kr](https://www.chainportal.co.kr/)
-* 동아대학교 교육관리시스템
-* 
+#### ※ Development
+* 부산항만공사 물류공통포털 - [www.chainportal.co.kr](https://www.chainportal.co.kr/)
+* 동아대학교 교육관리시스템 - [daurp.nglp.kr](http://daurp.nglp.kr/)
+* 이노폴 홈페이지 - [www.inopol.com](http://www.inopol.com/)
+* SM경인터미널 홈페이지 - [www.smlgi.co.kr](http://www.smlgi.co.kr/index)
+* 스마트 유지보수 시스템 - 미오픈
 
-#### ※ 유지보수 건
-* 해운거래정보센터
-* 우수물류기업인증센터
-* 
+#### ※ Maintenance
+* 해운거래정보센터 - [www.meic.kr](https://www.meic.kr/)
+* 우수물류기업인증센터 - [celc.koti.re.kr](https://celc.koti.re.kr/)
+* 부산시청 좋은일자리추진상황시스템 - 시청 내부망
  
+#### ※ Other
+* 2018.02 ~ 2018.06 부산항만공사 빅데이터 구축사업 IoT 부분 ISP
+
+### 2.2 Details
+
+
+
 
 #3. 마치며
