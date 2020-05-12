@@ -12,10 +12,10 @@
     2년이 넘는 시간 동안 개발에 매진하며 내었던 성과들을 발판삼아 
     지금은 조금 더 사용자와 소통할 수 있는 시스템을 만들고 싶습니다.
 
-<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/celc_main01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
-<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/chainportal_main01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
-<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/inopol_main_01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
-<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/meic_main01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/celc_main01_thumb.png?raw=true" width="380px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/chainportal_main01_thumb.png?raw=true" width="380px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/inopol_main_01_thumb.png?raw=true" width="380px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/meic_main01_thumb.png?raw=true" width="380px" height="180px" alt="포트폴리오 썸네일"></img><br/>
 
 ### 1.1 Education
 
