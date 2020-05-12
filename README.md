@@ -12,6 +12,11 @@
     2년이 넘는 시간 동안 개발에 매진하며 내었던 성과들을 발판삼아 
     지금은 조금 더 사용자와 소통할 수 있는 시스템을 만들고 싶습니다.
 
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/celc_main01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/chainportal_main01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/inopol_main_01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+<img src="https://github.com/ChanuuDev/malanghoney/blob/master/resources/images/thumbnail/meic_main01_thumb.png?raw=true" width="450px" height="180px" alt="포트폴리오 썸네일"></img><br/>
+
 ### 1.1 Education
 
 * 2011.03 ~ 2018.08 - 동아대학교 컴퓨터공학과 (졸업)
@@ -65,24 +70,17 @@
     - 유지보수 건 3건 수행
     - 설계 건 1건 수행
 
-#### ※ Development
+### 2.2 Development
 * 부산항만공사 물류공통포털 - [www.chainportal.co.kr](https://www.chainportal.co.kr/)
 * 동아대학교 교육관리시스템 - [daurp.nglp.kr](http://daurp.nglp.kr/)
 * 이노폴 홈페이지 - [www.inopol.com](http://www.inopol.com/)
 * SM경인터미널 홈페이지 - [www.smlgi.co.kr](http://www.smlgi.co.kr/index)
 * 스마트 유지보수 시스템 - 미오픈
 
-#### ※ Maintenance
+### 2.3 Maintenance
 * 해운거래정보센터 - [www.meic.kr](https://www.meic.kr/)
 * 우수물류기업인증센터 - [celc.koti.re.kr](https://celc.koti.re.kr/)
 * 부산시청 좋은일자리추진상황시스템 - 시청 내부망
  
-#### ※ Other
+### 2.4 Other
 * 2018.02 ~ 2018.06 부산항만공사 빅데이터 구축사업 IoT 부분 ISP
-
-### 2.2 Details
-
-
-
-
-#3. 마치며
