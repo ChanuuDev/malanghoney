@@ -12,23 +12,58 @@
     2년이 넘는 시간 동안 개발에 매진하며 내었던 성과들을 발판삼아 
     지금은 조금 더 사용자와 소통할 수 있는 시스템을 만들고 싶습니다.
 
-### 1.1 Education.
+### 1.1 Education
+
 * 2011.03 ~ 2018.08 - 동아대학교 컴퓨터공학과 (졸업)
 
-### 1.2 Work.
-* 2018.01 ~ 2020.03 ~ 엔지엘(주) (퇴사)
+### 1.2 Work
+* 2018.01 ~ 2020.03 - 엔지엘(주) (퇴사)
 
-### 1.3 Other Information.
-* 
+### 1.3 Skills
 
-### 1.4 Contact Us.
+    현재까지 개발하며 사용했던 개발환경 및 도구 입니다.
+
+#### ※ Language
+- Java, Javascript, Html, CSS, SQL(MySql, Oracle)
+
+#### ※ Framework
+- Spring, Springboot, Vue.js
+
+#### ※ DB
+- MySql, Oracle
+
+#### ※ WAS
+- Apache Tomcat
+
+#### ※ Configuration Management
+- git, svn
+
+#### ※ IDE & Editor & DBMS
+- IntelliJ(IDE), Visual Studio Code(Editor), Data Grip(DBMS), Workbench(DBMS)
+
+#### ※ Server
+- Windows Server 2008 ~ 2016ver.
+
+#### ※ Other Lib and API
+- jQuery, Bootstrap, MyBatis, JPA ...
+
+### 1.4 Other Information
+
+* 2018 - 1종보통운면면허
+* 2010 - 정보기기운용기능사
+* 2010 - 전자기기기능사
+
+### 1.5 Contact Us
 * email : chanuu.develop@gmail.com
 * phone : (+82)010-4302-5744
 
-##2. 프로젝트 이력
 
-###2.1 요약
-#### ※ 신규 개발 건
+##2. Recent Project history
+* 
+
+
+### 2.1 요약
+#### ※ 개발 건
 * 부산항만공사 물류공통포털 [www.chainportal.co.kr](https://www.chainportal.co.kr/)
 * 동아대학교 교육관리시스템
 * 
