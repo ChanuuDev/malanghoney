@@ -64,7 +64,7 @@
 * phone : (+82)010-4302-5744
 
 
-##2. Recent Project history
+## 2. Recent Project history
 
 ### 2.1 Summary
     - 신규 개발 건 5건 수행
